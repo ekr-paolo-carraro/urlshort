@@ -1,0 +1,4 @@
+- path: /g
+  url: www.google.com
+- path: /gtr
+  url: www.guitar.com
